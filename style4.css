@@ -1,0 +1,260 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.form {
+    border: 1px solid skyblue;
+    width: 200px;
+    margin-left: 150px;
+    margin-top: 60px;
+    border-radius: 15% 1%;
+    background: transparent;
+    text-align: center;
+}
+
+body {
+    background: url('https://crowd1-mlm.de/wp-content/uploads/2020/06/5ef31f7f7c68229e8fe7eadf_paul-green-mln2ExJIkfc-unsplash-p-1080-1024x683.jpeg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: flexed;
+    background: rgba(0, 0, 0, 0.5, 0.5px), rgba(0, 0, 0, 0.5, 0.5px);
+    width: 100%;
+}
+
+h1 {
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+label {
+    color: white;
+    margin-left: 0px;
+    text-align: left;
+}
+
+input {
+    width: 185px;
+}
+
+.f {
+    margin-left: 100px;
+}
+
+.login {
+    color: white
+}
+
+#basic-addon2 {
+    height: 38px;
+}
+
+.checkbox {
+    margin-left: -80px;
+}
+
+.checkbox label {
+    margin-left: -85px;
+}
+
+.row {
+    margin-top: 40px;
+}
+
+#login {
+    border: 1px solid whitesmoke;
+    padding: 60px 40px;
+    border-radius: 15% 1%;
+    -webkit-box-shadow: 7px 17px 23px 21px rgba(212, 204, 212, 0.62);
+    -moz-box-shadow: 7px 17px 23px 21px rgba(212, 204, 212, 0.62);
+    box-shadow: 7px 17px 23px 21px rgba(212, 204, 212, 0.62);
+}
+
+span {
+    color: gold;
+}
+
+.btn-outline {
+    font-size: 40px;
+    width: 180px;
+    font-weight: bold;
+}
+
+.form-group i {
+    font-size: 26px;
+    margin-left: 4px;
+}
+
+.btn a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.btn a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.login img {
+    border-radius: 50%;
+    margin-left: 60px;
+}
+
+
+/* Smartphones (portrait and landscape) ----------- */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    body {
+        width: 100%;
+    }
+    .login {
+        width: 100%;
+    }
+    .login img {
+        margin-left: 55px;
+    }
+    /* STYLES GO HERE */
+}
+
+
+/* Smartphones (landscape) ----------- */
+
+@media only screen and (min-width: 280px) and (max-width: 320px) {
+    body {
+        width: 100%;
+    }
+    .login {
+        width: 100%;
+    }
+    .login img {
+        margin-right: 20px;
+    }
+    .login h1 {
+        margin-left: 5px;
+    }
+    /* STYLES GO HERE */
+}
+
+
+/* Smartphones (portrait) ----------- */
+
+@media only screen and (max-width: 320px) {
+    body {
+        width: 100%;
+    }
+    .login {
+        width: 100%;
+    }
+    /* STYLES GO HERE */
+}
+
+
+/* iPads (portrait and landscape) ----------- */
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+    body {
+        width: 100%;
+    }
+    .login {
+        width: 100%;
+    }
+    .login h1 {
+        margin-left: 10px;
+    }
+    /* STYLES GO HERE */
+}
+
+
+/* iPads (landscape) ----------- */
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+    body {
+        width: 100%;
+    }
+    .login {
+        width: 100%;
+    }
+    /* STYLES GO HERE */
+}
+
+
+/* iPads (portrait) ----------- */
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+    /* STYLES GO HERE */
+    body {
+        width: 100%;
+    }
+    .login {
+        width: 100%;
+    }
+    .form {
+        width: 100%;
+    }
+}
+
+
+/* Desktops and laptops ----------- */
+
+@media only screen and (min-width: 1224px) {
+    body {
+        width: 100%;
+    }
+    .login {
+        width: 100%;
+    }
+    /* STYLES GO HERE */
+}
+
+
+/* Large screens ----------- */
+
+@media only screen and (min-width: 1824px) {
+    body {
+        width: 100%;
+    }
+    .login {
+        width: 100%;
+    }
+    /* STYLES GO HERE */
+}
+
+
+/* iPhone 5 (portrait &amp; landscape)----------- */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+    body {
+        width: 100%;
+    }
+    .login {
+        width: 100%;
+    }
+    /* STYLES GO HERE */
+}
+
+
+/* iPhone 5 (landscape)----------- */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: landscape) {
+    /* STYLES GO HERE */
+    body {
+        width: 100%;
+    }
+    .login {
+        width: 100%;
+    }
+}
+
+
+/* iPhone 5 (portrait)----------- */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: portrait) {
+    /* STYLES GO HERE */
+    body {
+        width: 100%;
+    }
+    .login {
+        width: 100%;
+    }
+}
