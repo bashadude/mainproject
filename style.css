@@ -221,7 +221,7 @@ button:hover {
     border-radius: 70%;
     border: 0.5px solid;
     color: rgb(99, 245, 136);
-    border-width: -40px;
+   
     scrollbar-darkshadow-color: balck;
 }
 
@@ -236,7 +236,7 @@ button:hover {
     border-radius: 70%;
     border: 0.5px solid;
     color: rgb(250, 131, 101);
-    border-width: -40px;
+    
     scrollbar-darkshadow-color: balck;
 }
 
@@ -259,7 +259,7 @@ button:hover {
     border-radius: 90%;
     border: 0.5px solid;
     color: rgb(241, 139, 211);
-    border-width: -40px;
+    
     scrollbar-darkshadow-color: balck;
 }
 
