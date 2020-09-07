@@ -196,7 +196,7 @@ button:hover {
 }
 
 .icons .fa-facebook-square {
-    font-size: 40px;
+    font-size: 20px;
     color: rgb(250, 246, 246);
     margin-left: -20px;
 }
@@ -211,7 +211,7 @@ button:hover {
 }
 
 .icons .fa-whatsapp {
-    font-size: 40px;
+    font-size: 20px;
     color: rgb(245, 241, 241);
     margin-left: 0 px;
 }
@@ -226,7 +226,7 @@ button:hover {
 }
 
 .icons .fa-envelope {
-    font-size: 40px;
+    font-size: 20px;
     color: rgb(248, 246, 246);
     margin-left: 0px;
 }
@@ -251,7 +251,7 @@ button:hover {
 
 .icons span:hover {
     font-weight: bolder;
-    font-size: large;
+    font-size: ;
 }
 
 .icons .fa-map-marker:hover {
